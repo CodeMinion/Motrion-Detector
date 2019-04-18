@@ -1,6 +1,6 @@
 # Motion Detector - Bluetooth Motion Detector Module
 
-This repo contains all the files to deploy the Feather NRF 52 based motion dector module. 
+This repo contains all the files to deploy the Feather NRF 52 based motion detector module. 
 
 
 ## What will I need to set up my Motion Sensor?
